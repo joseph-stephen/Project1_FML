@@ -4,4 +4,4 @@
 data/*
 !data/readme.txt
 !data/PredictorData.xlsx
-data/
+models/
